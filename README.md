@@ -2,8 +2,6 @@
 
 
 
-# Packet Tracer - Design and Build a Small Network - Physical Mode
-
 ## 🦾 Tech Project Accomplishments in Networking and Security 🦿
 
 ### Cisco Networking Academy
